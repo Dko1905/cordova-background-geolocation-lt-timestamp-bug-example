@@ -57,6 +57,7 @@
   </platform>
   <platform name="android">
     <preference name="android-targetSdkVersion" value="29"/>
+    <preference name="AndroidXEnabled" value="true"/>
     <icon src="/res/android/icon/icon.png" density="ldpi"/>
     <!-- <icon src="/res/android/icon/ldpi.png" density="ldpi"/>
     <icon src="/res/android/icon/mdpi.png" density="mdpi"/>
